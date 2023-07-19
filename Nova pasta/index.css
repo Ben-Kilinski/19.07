@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container img {
+    max-width:100px;
+    width: auto;
+    text-align: left;
+}
